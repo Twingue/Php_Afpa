@@ -1,0 +1,2 @@
+$login = addslaashes($login);
+$pass = bcrypt($pass);
